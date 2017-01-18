@@ -1,7 +1,7 @@
 {
   "intents": [
     {
-      "intent": "AMAZON.HelpIntent",
+      "intent": "AMAZON.HelpIntent"
     },
     {
       "intent": "TellCleverbot",
