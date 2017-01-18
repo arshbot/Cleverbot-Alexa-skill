@@ -1,0 +1,13 @@
+ConversationIntent tell cleverbot {Hey|Conversation}
+ConversationIntent tell cleverbot {How's it going|Conversation}
+ConversationIntent tell cleverbot {Yes|Conversation}
+ConversationIntent tell cleverbot {No|Conversation}
+ConversationIntent tell cleverbot {How are you cleverbot|Conversation}
+ConversationIntent tell cleverbot {I am doing fine, thank you|Conversation}
+ConversationIntent tell cleverbot {Don't wake the baby|Conversation}
+ConversationIntent tell cleverbot {What about you|Conversation}
+ConversationIntent tell cleverbot {How do you feel|Conversation}
+ConversationIntent tell cleverbot {one|Conversation}
+ConversationIntent tell cleverbot {two|Conversation}
+ConversationIntent tell cleverbot {three|Conversation}
+ConversationIntent tell cleverbot {four|Conversation}
