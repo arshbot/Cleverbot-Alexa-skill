@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.HelpIntent",
+    },
+    {
+      "intent": "TellCleverbot",
+      "slots": [
+        {
+          "name": "Conversation",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    }
+  ]
+}
